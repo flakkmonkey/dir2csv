@@ -1,5 +1,3 @@
----
-
 # `dir2csv.bat`
 
 ## Overview
